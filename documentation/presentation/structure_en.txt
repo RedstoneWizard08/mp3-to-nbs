@@ -1,0 +1,18 @@
+Presentation outline:
+
+wave vs midi
+nbs
+programs
+
+video: the samples, before-after (with before wave and nbs (expected) as well)
+
+motivation
+data format
+conversion, search method
+comparison of optical algorithms
+results, evaluation
+summary
+
+
+VIDEO CREDIT TO FRIGIDUCK!! + music title
+what is which program

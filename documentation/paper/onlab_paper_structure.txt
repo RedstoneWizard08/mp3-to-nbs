@@ -1,0 +1,23 @@
+introduction
+  general
+  more specific introduction
+  motivation
+  how do i do it
+  last paragraph: document structure
+
+related work (you don't have to push yourself so hard in the lab)
+  paragraph per article (e.g. 10)
+
+data: format, from where, possibly statistics, pre-processing
+
+method description (how I search):
+  Nelder-Mead, and why PSO is not so good
+  how do I calculate distance, status space
+
+evaluation results
+  alg found the optimum so quickly, it looks like this and like this
+  comparison of methods
+  2d graph: number of function calls X accuracy, 2 curves with the two optimizers
+
+conclusion and future work
+  summarized once again, highlighted, where to go next

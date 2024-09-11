@@ -8,15 +8,47 @@ pub const PITCH_COUNT: usize = 25;
 pub type SpectrogramSlice = [Vec<f32>];
 pub type Spectrogram = Vec<Vec<f32>>;
 
-// index is the ID of the instrument
 pub const INSTRUMENT_FILENAMES: &[&str] = &[
-    "Sounds/dbass.ogg",
-    "Sounds/harp.ogg",
-    //"Sounds/pling.ogg",
-    "Sounds/sdrum.ogg",
-    //"Sounds/bdrum.ogg",
+    "Sounds/banjo.ogg",
+    "Sounds/bass.ogg",
+    "Sounds/bdrum.ogg",
+    "Sounds/bell.ogg",
+    "Sounds/bit.ogg",
+    "Sounds/brass.ogg",
     "Sounds/click.ogg",
+    "Sounds/cow_bell.ogg",
+    "Sounds/dbass.ogg",
+    "Sounds/didgeridoo.ogg",
+    "Sounds/drum.ogg",
+    "Sounds/flute.ogg",
+    "Sounds/guitar.ogg",
+    "Sounds/harp.ogg",
+    "Sounds/hat.ogg",
+    "Sounds/icechime.ogg",
+    "Sounds/iron_xylophone.ogg",
+    "Sounds/kora.ogg",
+    "Sounds/marimba.ogg",
+    "Sounds/piano.ogg",
+    "Sounds/pizz.ogg",
+    "Sounds/pling.ogg",
+    "Sounds/sdrum.ogg",
+    "Sounds/snare.ogg",
+    "Sounds/tamborine.ogg",
+    "Sounds/tom.ogg",
+    "Sounds/vibraphone.ogg",
+    "Sounds/woodblock.ogg",
+    "Sounds/xylobone.ogg",
 ];
+
+// index is the ID of the instrument
+// pub const INSTRUMENT_FILENAMES: &[&str] = &[
+//     "Sounds/dbass.ogg",
+//     "Sounds/harp.ogg",
+//     //"Sounds/pling.ogg",
+//     "Sounds/sdrum.ogg",
+//     //"Sounds/bdrum.ogg",
+//     "Sounds/click.ogg",
+// ];
 
 /*
 pub const INSTRUMENT_FILENAMES: &[&str] = &[
